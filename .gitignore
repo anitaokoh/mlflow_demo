@@ -1,3 +1,5 @@
 mlruns/
 artifacts/
 wandb/
+outputs/
+__pycache__
