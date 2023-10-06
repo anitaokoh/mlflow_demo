@@ -1,0 +1,6 @@
+python: "3.8"
+build_dependencies:
+  - pip
+dependencies:
+  - requests>=2.31.0,<3.0.0
+  - wandb>=0.15.10,<0.16.0
